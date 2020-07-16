@@ -4,9 +4,7 @@ class point:
         self.Ycord = Ycord
         self.pt = (Xcord, Ycord)
    
-    #pt = (Xcord, Ycord) 
-    #a = 0
-    #b = 0
+   
  
 
 
